@@ -6,9 +6,7 @@ My take at a popular coding kata that already exists in many variants by differe
 
 You are part of the Mars Rover mission, creating the software that accepts and interprets commands to steer the rover.
 
-## 1. Evolutionary TDD Kata
-
-Learning goals: evolutionary design, systems thinking
+## Evolutionary TDD Kata
 
 *Make sure to reveal the requirements of the next version only after finishing the previous one.*
 
